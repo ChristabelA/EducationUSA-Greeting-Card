@@ -5,4 +5,4 @@ I designed this card for EducationUSA's social media page. It was used during th
 
 Image is attached. 
 
-![Greeting Card](Github Season's Greetings.png)
+![Greeting Card](Season-greetings.PNG)
