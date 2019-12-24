@@ -1,8 +1,6 @@
 # EducationUSA-Greeting-Card
 Graphic Design Project
 
-I designed this card for EducationUSA's social media page. It was used during the Christmas of 2019.
+I designed this card for EducationUSA's social media pages. It was used during the Christmas of 2019.
 
-Image is attached. 
-
-![Greeting Card](https://github.com/ChristabelA/EducationUSA-Greeting-Card/blob/master/Season-greetings.png)
+![Greeting Card](https://github.com/ChristabelA/EducationUSA-Greeting-Card/blob/master/EdUSA-Christmas.png)
